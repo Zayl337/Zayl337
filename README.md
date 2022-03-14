@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zayl337
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me Discord : Zay1337#0001
